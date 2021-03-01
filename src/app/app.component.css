@@ -1,0 +1,14 @@
+.center
+{
+    margin-left: 500px;
+}
+
+input.ng-invalid.ng-touched
+{
+    border-color: red;
+}
+
+/* .right
+{
+    margin-right: 0px;
+} */
